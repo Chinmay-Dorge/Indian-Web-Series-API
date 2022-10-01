@@ -1902,5 +1902,29 @@
     "releaseDate": {
       "S1": "16 december 2021"
     }
+  },
+  {
+    "id": 98,
+    "name": "Campus Diaries",
+    "rating": 9.0,
+    "description": "Campus Diaries is a coming-of-age drama of six students at Excel University.",
+    "category": ["Comedy", "Drama", "Romance"],
+    "platform": "MX Player",
+    "casting": {
+      "actors": [
+        "Harsh Beniwal",
+        "Ritvik Sahore",
+        "Srishti Rindani",
+        "Saloni Khanna",
+        "Abhinav Sharma"
+      ],
+      "director": ["Abhishek Yadav", "Prem Mistry"]
+    },
+    "poster": "https://m.media-amazon.com/images/M/MV5BZmQ3MGY4YjItODhlNy00MTgyLTk3YzgtNzU4NDcwM2Q5MWY4XkEyXkFqcGdeQXVyMTE0Nzg1NjQ2._V1_FMjpg_UX1000_.jpg",
+    "episodeCount": 12,
+    "seasons": 1,
+    "releaseDate": {
+      "S1": "7 January 2022"
+    }
   }
 ]
